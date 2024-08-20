@@ -1,2 +1,2 @@
 # bookbot
-my forst project
+BookBot is my first project!
